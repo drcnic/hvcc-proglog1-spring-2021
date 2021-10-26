@@ -1,0 +1,61 @@
+Hudson Valley Corporation
+HV1044
+Jerry Seinfeld
+B
+100000.0
+false
+HV8064
+Elaine Benes
+B
+100000.0
+false
+HV9987
+George Costanza
+C
+50000.0
+false
+HV7018
+Cosmo Kramer
+C
+50000.0
+true
+HV9018
+Jacopo Peterman
+A
+150000.0
+true
+HV2376
+David Putty
+C
+50000.0
+true
+HV4912
+Justin Pitt
+A
+200000.0
+true
+HV7241
+Russell Dalrymple
+A
+150000.0
+false
+HV6901
+Tim Whatley
+D
+25000.0
+false
+HV5518
+Joe Davola
+D
+25000.0
+false
+HV3245
+Kenny Bania
+C
+50000.0
+true
+HV8267
+Susan Ross
+A
+150000.0
+true

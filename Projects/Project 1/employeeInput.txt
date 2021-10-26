@@ -1,0 +1,21 @@
+Hudson Valley Community College
+
+HV1044
+Jerry Seinfeld
+B
+100000
+
+HV2033
+Marge Simpson
+A
+40000
+
+HV0302
+Ernest Hemmingway
+C
+75000
+
+HV2323
+Bart Simpson
+D
+3000

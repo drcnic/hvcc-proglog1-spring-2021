@@ -1,0 +1,36 @@
+Russell Westbrook
+Houston Rockets
+Point Guard
+354
+145
+Kawhi Leonard
+LA Clippers
+Forward
+328
+144
+James Harden
+Houston Rockets
+Shooting Guard
+496
+215 
+Nikola Jokic
+Denver Nuggets
+Center
+248
+112
+Joel Embiid
+Philadelphia 76ers
+Center
+271
+123
+Paul George
+LA Clippers
+Small Forward
+183
+82
+Pascal Siakam
+Toronto Raptors
+Power Forward
+403
+188
+
